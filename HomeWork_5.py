@@ -28,6 +28,8 @@
 # some_list.reverse()
 # print('Цифры в обратном порядке: ', some_list)
 
+# ВТОРОЙ ВАРИАНТ
+
 # def sequence(n):
 #     if n == 0:
 #         return
